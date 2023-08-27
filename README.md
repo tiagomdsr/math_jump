@@ -1,2 +1,2 @@
 # math_jump
-Jogo educativo criado usando pygame.
+Jogo educativo criado usando pygame. Jogo educativo em que o jogador recebe uma conta, e deve clicar na planta com o resultado correto para ela. A conta é criada escolhendo um valor aleatório para os dois valores e então, ja com o resultado, o programa escolhe entre a id 1 ou 0, se a id for = 0, o resultado é posto na planta da esquerda e um número incorreto é posto na direita, se o id for 1, é feito o contrário.
